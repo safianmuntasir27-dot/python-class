@@ -1,0 +1,10 @@
+x ="safian"
+y="27 octobor"
+z= 2013
+cake_flavor="pandan"
+
+print("happy birthday", x)
+print("birthday date " , y , z )
+print("favourite cake flavor " , cake_flavor)
+print("happy birthday to me ")
+
